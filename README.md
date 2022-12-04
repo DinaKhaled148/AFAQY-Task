@@ -1,17 +1,13 @@
-# vodafone-automation-task
+# AFAQY-automation-task
 
- This project represent search for vodafone keyword in google search by selenium webDriver with java
+ This project represent signup automated test-case in automation exercise website by selenium webDriver with java
  Our scenario:
  
-        1- Redirect to "www.google.com"
-        2- Search with "vodafone" keyword
-        3- Scroll down to search pages
-        4- Click on second page link
-        5- Count the number of search result of second page 
-        6- Scroll down to search pages
-        7- Click on third page link
-        8- Count the number of the search result of third page
-        9- Veify if the search result of second page equal the search result of third page 
+        1- Redirect to "https://automationexercise.com/"
+        2- click on signup btn
+        3- enter name in namefield
+        4- enter email in emailfield
+        5-click on signup btn
 
 # We already implemented 
         1- Hybrid (Modular *reusable methods* and Data-driven) Test Automation Framework with an object-oriented design.
